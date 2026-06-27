@@ -26,7 +26,6 @@ student-management-machine-test-solution
 ├── backend
 │   ├── config
 │   ├── controllers
-│   ├── cronJobs
 │   ├── errors
 │   ├── helper
 │   ├── middleware
