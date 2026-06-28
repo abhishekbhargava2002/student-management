@@ -32,7 +32,6 @@ student-management-machine-test-solution
 │   ├── models
 │   ├── routes
 │   ├── services
-│   ├── uploads
 │   ├── utils
 │   ├── app.js
 │   ├── server.js
