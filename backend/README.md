@@ -8,7 +8,6 @@ Node.js + Express.js + PostgreSQL backend for Student Management System.
 backend
 ├── config/db.js
 ├── controllers
-├── cronJobs
 ├── errors
 ├── helper
 ├── middleware
